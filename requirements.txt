@@ -1,0 +1,20 @@
+# Core framework
+fastmcp>=0.1.0
+
+# Web server
+fastapi>=0.104.0
+uvicorn>=0.22.0
+
+# Environment management
+python-dotenv>=1.0.0
+
+# Database drivers
+asyncpg>=0.29.0        # PostgreSQL
+aiomysql>=0.2.0        # MySQL  
+aiosqlite>=0.20.0      # SQLite
+
+# OpenAI for NLP
+openai>=1.0.0
+
+# Data validation
+pydantic>=2.0.0
